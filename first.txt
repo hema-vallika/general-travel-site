@@ -1,9 +1,0 @@
- <h2> <b>UP TO 60% OFF<b>ADVENTURE TRAVEL</h2>
-<h4> JOIN OVER  40,000 MEMBERS. </h4>
-
-<p>Get exclusive access to members only deals on amazing adventure holidays by email - it's free.</p>
-<div>
-<i></i>
-<input type = "mail" placeholder="enter your mail"/>
-<button>Subscribe </button>
-<h6>No thanks, I like boring holidays.
