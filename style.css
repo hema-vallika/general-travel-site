@@ -258,6 +258,7 @@ html,body{
     font-size: 1.7rem;
     color: #fff;
     text-shadow:2px 2px 4px black;
+    text-transform: uppercase;
 }
 .fifth{
     width: 100vw;
