@@ -409,7 +409,7 @@ html,body{
         grid-template-columns:1fr;
         grid-template-rows: 350px;
         row-gap: 50px;
-        padding: 5px 0;
+        padding: 5px;
     }
     .img-container{
         grid-template-columns: 1fr;
